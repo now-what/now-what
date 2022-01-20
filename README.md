@@ -1,6 +1,6 @@
-👋 Hi, I’m Francesco
-- 🏦 I work for Monzo Bank
-- 🌱 I’m currently learning Ruby
+👋 Hi, I’m Francesco 🇮🇹 🇫🇷 🇬🇧
+- 🏦 I work for [Monzo Bank](https://monzo.com).
+- 🌱 I’m currently learning Ruby at [Makers Academy](https://makers.tech).
 
 <!---
 now-what/now-what is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
